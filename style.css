@@ -146,7 +146,7 @@ img {
 }
 
 .main {
-	background-color:rgb(172, 143, 106);
+	background-color: rgb(172, 143, 106);
 	padding-bottom: 99px;
 }
 
@@ -242,7 +242,7 @@ li {
 
 .post-bottom a {
 	font-family: "Lato", sans-serif;
-    font-size: 17px;
+	font-size: 17px;
 	line-height: 30px;
 	color: #8D4FDB;
 }
@@ -284,5 +284,4 @@ li {
 .read-more a:hover {
 	color: #c4c4c4;
 }
-
 
